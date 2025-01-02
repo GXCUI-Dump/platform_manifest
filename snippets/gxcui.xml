@@ -53,6 +53,7 @@
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
   <project path="vendor/lineage" name="platform_vendor_lineage" revison="GXCUI" />
   <project path="vendor/partner_gms" name="platform_vendor_partner_gms" remote="GXCUI" />
+  <project path="prebuilts/AuroraStore" name="platform_prebuilts_AuroraStore" remote="GXCUI" />
 
   <!-- Legacy AOSP additions -->
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
